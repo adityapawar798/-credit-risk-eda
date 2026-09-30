@@ -33,6 +33,10 @@ Python, Pandas, NumPy, Matplotlib, Seaborn (Google Colab)
 
 <img width="554" height="526" alt="credit_ratio" src="https://github.com/user-attachments/assets/6c98e8d9-dc4f-4e66-b7ee-1befcf9f0b4f" />
 
+**Default rate by age group:** Younger applicants tend to have a higher default rate, and the rate decreases as age increases.
+
+<img width="562" height="479" alt="age_group" src="https://github.com/user-attachments/assets/129cd5bb-d889-4955-9950-145617ba0450" />
+
 
 ## Key Findings
 - Only about 8.07% of applicants defaulted, so the data is heavily imbalanced.
