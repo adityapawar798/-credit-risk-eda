@@ -29,6 +29,10 @@ Python, Pandas, NumPy, Matplotlib, Seaborn (Google Colab)
 
 <img width="930" height="746" alt="heatmap" src="https://github.com/user-attachments/assets/6cf1e614-7d36-445d-81d3-667966616da7" />
 
+**Default rate by credit-to-income ratio:** The relationship is non-linear. Default rate is highest in the middle groups (about 8.5-9%) and lower at both extremes (about 7.2-7.4%).
+
+<img width="554" height="526" alt="credit_ratio" src="https://github.com/user-attachments/assets/6c98e8d9-dc4f-4e66-b7ee-1befcf9f0b4f" />
+
 
 ## Key Findings
 - Only about 8.07% of applicants defaulted, so the data is heavily imbalanced.
