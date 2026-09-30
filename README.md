@@ -23,6 +23,13 @@ Python, Pandas, NumPy, Matplotlib, Seaborn (Google Colab)
 5. Feature engineering (credit-to-income ratio, annuity-to-income ratio)
 6. Correlation analysis
 
+## Charts
+
+**Correlation heatmap:** EXT_SOURCE_2 has the strongest linear relationship with default (-0.16).
+
+<img width="930" height="746" alt="heatmap" src="https://github.com/user-attachments/assets/6cf1e614-7d36-445d-81d3-667966616da7" />
+
+
 ## Key Findings
 - Only about 8.07% of applicants defaulted, so the data is heavily imbalanced.
 - EXT_SOURCE_2 is the strongest linear predictor of default (correlation -0.16).
